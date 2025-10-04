@@ -34,11 +34,3 @@ Includes descriptive statistics, correlation, regression, and visualization in a
 - **Research Tools:** R Markdown, data visualization, spatial mapping  
 
 ---
-
-### 🌐 Connect  
-📧 **uthmanolanase01@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/uthmanal-ameen/) • [GitHub](https://github.com/uthmanolanase)  
-
----
-
-> “Data-driven evidence can transform health outcomes — one dataset at a time.”  
