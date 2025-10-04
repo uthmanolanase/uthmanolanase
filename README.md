@@ -1,4 +1,4 @@
-# 👋🏽 Uthman Al-Ameen Olalekan  
+# 👋🏽 Uthman Olalekan Al-Ameen   
 **Public Health Professional | Infectious Disease Epidemiologist | Data Analyst**  
 MPH, University of Ibadan, Nigeria  
 📍 PhD Applicant in Epidemiology (Fall 2026)  
